@@ -1,7 +1,5 @@
 # 🍫 ChocoFactory Simulator
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 Este repositório contém a minha resolução para um exercício de lógica de programação focado em simulação, laços de repetição e condicoes compostas.
 
 ## 📜 O Desafio Proposto
